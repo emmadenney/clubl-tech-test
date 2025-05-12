@@ -34,9 +34,9 @@ This Node.js script fetches and processes Github commit data from a public GitHu
 
 After running, three CSV files will be created in the project directory:
 
-- authors.csv
-- followers.csv
-- commits.csv
+- `authors.csv`
+- `followers.csv`
+- `commits.csv`
 
 ---
 
